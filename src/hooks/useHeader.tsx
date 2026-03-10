@@ -89,7 +89,7 @@ export function useHeader() {
                     <div className="absolute inset-0 bg-white h-full w-full shadow-xl flex flex-col p-6 animate-slide-in z-[10000]">
                         <div className="flex items-center justify-between mb-6">
                             <img
-                                src="/public/logo.png"
+                                src="/logo.png"
                                 alt="RishiLux Logo"
                                 className="h-12 w-12 rounded-sm bg-white object-contain shadow-md"
                             />

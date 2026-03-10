@@ -17,7 +17,7 @@ function App() {
       <div className="min-h-screen text-slate-100 flex flex-col">
         {useHeader()}
         <main className="flex-1">
-          <div className="w-full px-6 py-10 md:px-10 lg:px-16 xl:px-24 2xl:px-28">
+          <div className="w-full px-2 py-10 md:px-10 lg:px-16 xl:px-24 2xl:px-28">
             <Routes>
               <Route path="/" element={<Home />} />
               <Route path="/about" element={<About />} />

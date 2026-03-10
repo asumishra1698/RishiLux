@@ -36,7 +36,7 @@ function Home() {
     return (
         <div className="space-y-14">
             {/* Hero Section */}
-            <section className="grid items-center gap-10 md:grid-cols-2">
+            <section className="grid items-center gap-10 md:grid-cols-2 p-6">
                 <div className="space-y-6">
                     <div className="inline-flex items-center gap-2 rounded-full bg-brand-600/10 px-4 py-2 text-sm text-brand-700 text-slate-200">
                         <span className="h-2 w-2 rounded-full bg-emerald-400" />
