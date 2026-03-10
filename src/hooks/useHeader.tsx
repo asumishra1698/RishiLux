@@ -25,7 +25,7 @@ export function useHeader() {
                 <div className="flex items-center gap-3">
                     <NavLink to="/">
                         <img
-                            src="/public/logo.png"
+                            src="/logo.png"
                             alt="RishiLux Logo"
                             className="h-auto w-15 rounded-sm backdrop-blur-sm object-contain shadow-md"
                         />
